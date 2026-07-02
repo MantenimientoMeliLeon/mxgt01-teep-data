@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "p1783018559421",
+    "fecha": "2026-07-01",
+    "hora_inicio": "12:30",
+    "hora_fin": "13:22",
+    "zona": "Todas",
+    "descripcion": "test"
+  }
+]
