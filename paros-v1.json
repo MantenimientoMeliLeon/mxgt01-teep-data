@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "p1783018658685",
+    "fecha": "2026-06-30",
+    "hora_inicio": "07:30",
+    "hora_fin": "08:40",
+    "zona": "Finger 1",
+    "descripcion": "limpieza"
+  }
+]
