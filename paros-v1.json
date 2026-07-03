@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "p1783088240820",
+    "fecha": "2026-07-02",
+    "hora_inicio": "09:01",
+    "hora_fin": "10:00",
+    "zona": "Todas",
+    "descripcion": "Mantenimiento planeado"
+  }
+]
