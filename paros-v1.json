@@ -22,13 +22,5 @@
     "hora_fin": "11:00",
     "zona": "Finger 3",
     "descripcion": "Ajuste Damon transferencias"
-  },
-  {
-    "id": "p1783458790395",
-    "fecha": "2026-07-05",
-    "hora_inicio": "12:40",
-    "hora_fin": "12:50",
-    "zona": "Colector 1",
-    "descripcion": "paro planeado"
   }
 ]
