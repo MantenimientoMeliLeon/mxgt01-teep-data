@@ -14,5 +14,13 @@
     "hora_fin": "10:00",
     "zona": "Finger 1",
     "descripcion": "Ajustes Damon transferencias"
+  },
+  {
+    "id": "p1783457384979",
+    "fecha": "2026-07-07",
+    "hora_inicio": "10:00",
+    "hora_fin": "11:00",
+    "zona": "Finger 3",
+    "descripcion": "Ajuste Damon transferencias"
   }
 ]
