@@ -1,17 +1,9 @@
 [
   {
-    "id": "p1783114335652",
-    "fecha": "2026-07-01",
-    "hora_inicio": "09:00",
-    "hora_fin": "10:00",
-    "zona": "Todas",
-    "descripcion": "Mantenimiento preventivo"
-  },
-  {
     "id": "p1783114354693",
     "fecha": "2026-07-02",
-    "hora_inicio": "09:00",
-    "hora_fin": "10:00",
+    "hora_inicio": "10:23",
+    "hora_fin": "11:23",
     "zona": "Todas",
     "descripcion": "Mantenimiento preventivo"
   }
