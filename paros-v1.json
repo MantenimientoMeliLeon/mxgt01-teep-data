@@ -14,5 +14,13 @@
     "hora_fin": "11:00",
     "zona": "Finger 1",
     "descripcion": "Damon"
+  },
+  {
+    "id": "p1783549973087",
+    "fecha": "2026-07-08",
+    "hora_inicio": "09:00",
+    "hora_fin": "10:00",
+    "zona": "Finger 3",
+    "descripcion": "Damon"
   }
 ]
