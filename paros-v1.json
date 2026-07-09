@@ -1,22 +1,6 @@
 [
   {
-    "id": "p1783549193401",
-    "fecha": "2026-07-07",
-    "hora_inicio": "06:45",
-    "hora_fin": "09:00",
-    "zona": "Finger 2",
-    "descripcion": "Damon"
-  },
-  {
-    "id": "p1783549226896",
-    "fecha": "2026-07-07",
-    "hora_inicio": "09:00",
-    "hora_fin": "11:00",
-    "zona": "Finger 1",
-    "descripcion": "Damon"
-  },
-  {
-    "id": "p1783549973087",
+    "id": "p1783636732968",
     "fecha": "2026-07-08",
     "hora_inicio": "09:00",
     "hora_fin": "10:00",
