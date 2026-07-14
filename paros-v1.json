@@ -1,26 +1,10 @@
 [
   {
-    "id": "p1783636732968",
-    "fecha": "2026-07-08",
-    "hora_inicio": "09:00",
+    "id": "p1784047773615",
+    "fecha": "2026-07-14",
+    "hora_inicio": "07:00",
     "hora_fin": "10:00",
     "zona": "Finger 3",
-    "descripcion": "Damon"
-  },
-  {
-    "id": "p1783636776993",
-    "fecha": "2026-07-07",
-    "hora_inicio": "06:45",
-    "hora_fin": "09:00",
-    "zona": "Finger 2",
-    "descripcion": "Damon"
-  },
-  {
-    "id": "p1783636793441",
-    "fecha": "2026-07-07",
-    "hora_inicio": "09:00",
-    "hora_fin": "10:00",
-    "zona": "Finger 1",
-    "descripcion": "Damon"
+    "descripcion": "mantenimiento preventivo semanal"
   }
 ]
